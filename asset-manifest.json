@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kabaoymarsintern.github.io/csb-bs6ti/static/css/main.9a6a245c.chunk.css",
+    "main.js": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/main.3a9cdc79.chunk.js",
+    "main.js.map": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/main.3a9cdc79.chunk.js.map",
+    "runtime-main.js": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/runtime-main.d392080a.js",
+    "runtime-main.js.map": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/runtime-main.d392080a.js.map",
+    "static/js/2.7dd6b044.chunk.js": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/2.7dd6b044.chunk.js",
+    "static/js/2.7dd6b044.chunk.js.map": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/2.7dd6b044.chunk.js.map",
+    "index.html": "https://kabaoymarsintern.github.io/csb-bs6ti/index.html",
+    "static/css/main.9a6a245c.chunk.css.map": "https://kabaoymarsintern.github.io/csb-bs6ti/static/css/main.9a6a245c.chunk.css.map",
+    "static/js/2.7dd6b044.chunk.js.LICENSE.txt": "https://kabaoymarsintern.github.io/csb-bs6ti/static/js/2.7dd6b044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d392080a.js",
+    "static/js/2.7dd6b044.chunk.js",
+    "static/css/main.9a6a245c.chunk.css",
+    "static/js/main.3a9cdc79.chunk.js"
+  ]
+}
